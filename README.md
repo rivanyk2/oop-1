@@ -20,7 +20,7 @@
 
 | Лабораторна робота | Статус виконання |
 |-------------------------------------------|---------------|
-| [Лабораторна робота 1](Laba1/README.md)  |:heavy_check_mark:|
+| [Лабораторна робота 1](Laba1/README.MD)  |:heavy_check_mark:|
 | [Лабораторна робота 2](Laba2/README.md)  |:heavy_check_mark:|
 | [Лабораторна робота 3](Laba3/README.md)  |:heavy_check_mark:|
 
